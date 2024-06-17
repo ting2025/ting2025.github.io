@@ -21,11 +21,11 @@ repository               : "ting2025/ting2025.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/Retouched photo copy.png"
   name             : "Ching Ting LEUNG"
   pronouns         : "she/her"  
   bio              : "Incoming Senior Year Undergraduate"
-  location         : "Hong Kong (Missouri, US in Summer 2024)"
+  location         : "Hong Kong (Currently MO, US)"
   employer         : "HKUST"
   uri              : # URL
   email            : "ctleungaf@connect.ust.hk" 
