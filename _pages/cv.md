@@ -19,7 +19,7 @@ Research Experience
 - Research Assistant @ Auiset Biotechnology (2023 Summer - ongoing)
 - Undergraduate Researcher in Professor Hanyu GAO's team @ Hong Kong University of Science and Technology
   [Page](https://hanyugao.com/tina-leung/)  (2023 Fall - 2024 Summer)
-- McKelvey Internation Summer Research Internship in Professor Chenguang WANG's team @ Washigton University in St. Louis (2024 Summer)
+- McKelvey International Summer Research Internship in Professor Chenguang WANG's team @ Washigton University in St. Louis (2024 Summer)
 - Final Year Thesis student in Professor Hanyu GAO's team @ Hong Kong University of Science and Technology (2024 Fall - 2025 Spring)
 
 Awards
