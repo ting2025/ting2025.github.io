@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education Background and Research Experience
-======
 BEng in Chemical Engineering (Research Option) with extended major in Artificial Intelligence (2021 - 2025 (expected))
+
+Research Experience
+======
+
 
 - Chem E-Car Team member @ Hong Kong University of Science and Technology [News](https://seng.hkust.edu.hk/news/20231211/hkust-chem-e-car-team-placed-11th-globally-and-won-best-video-award-2023-aiche-chem-e-car-competition) (2023 Summer)
 - Research Assistant @ Auiset Biotechnology (2023 Summer - ongoing)
