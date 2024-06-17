@@ -9,35 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education Background and Research Experience
 ======
-* B.Eng. in Hong Kong University of Science and Technology, 2012
+BEng in Chemical Engineering (Research Option) with extended major in Artificial Intelligence (2021 - 2025 (expected))
 
-Work experience
+- Chem E-Car Team member @ Hong Kong University of Science and Technology [News](https://seng.hkust.edu.hk/news/20231211/hkust-chem-e-car-team-placed-11th-globally-and-won-best-video-award-2023-aiche-chem-e-car-competition) (2023 Summer)
+- Research Assistant @ Auiset Biotechnology (2023 Summer - ongoing)
+- Undergraduate Researcher in Professor Hanyu GAO's team @ Hong Kong University of Science and Technology
+  [Page](https://hanyugao.com/tina-leung/)  (2023 Fall - 2024 Summer)
+- McKelvey Internation Summer Research Internship in Professor Chenguang WANG's team @ Washigton University in St. Louis (2024 Summer)
+- Final Year Thesis student in Professor Hanyu GAO's team @ Hong Kong University of Science and Technology (2024 Fall - 2025 Spring)
+
+Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- 2023 Fall Dean's List Awardee
+- 2024 Spring Dean's List Awardee
+- University Scholarship
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -45,18 +33,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
