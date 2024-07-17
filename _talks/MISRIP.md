@@ -1,5 +1,5 @@
 ---
-title: "Atmospheric Composition Analysis: Evaluating Large Language Model's Ability in Recognising Physical Phenomena"
+title: "Atmospheric Composition Analysis: Evaluating and Utilising Large Language Model's Ability in Recognising Physical Phenomena"
 collection: talks
 type: "Poster Session"
 permalink: /talks/MISRIP
