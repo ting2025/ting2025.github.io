@@ -8,4 +8,4 @@ date: 2024-08-01
 location: "St. Louis MO, USA"
 ---
 
-[Poster](../files/MISROP_Poster-2.pdf)
+[Poster](../files/MISRIP_Poster-2.pdf)
