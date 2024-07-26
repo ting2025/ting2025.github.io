@@ -27,7 +27,7 @@ Awards
 - 2023 Fall Dean's List Awardee
 - 2024 Spring Dean's List Awardee
 - University Scholarship
-- Top 1% Students in Departments [Letter](../files/Academic Letter.pdf)
+- Top 1% Students in Departments [Letter](files/Academic Letter.pdf)
   
 
 Publications
