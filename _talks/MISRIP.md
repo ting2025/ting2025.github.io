@@ -7,4 +7,4 @@ venue: "Washington University in St. Louis"
 date: 2024-08-01
 location: "St. Louis MO, USA"
 ---
-[Poster](files/MISRIP_Poster-5.pdf)
+[Poster](../files/MISRIP_Poster-5.pdf)
