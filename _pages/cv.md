@@ -49,6 +49,6 @@ Publications
 
 Presentations
 ======
-  <ul>{% for post in site.posters reversed %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
