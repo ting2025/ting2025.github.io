@@ -2,7 +2,7 @@
 title: "SMiCRM: A Benchmark Dataset of Mechanistic Molecular Images"
 collection: publications
 permalink: /publication/SMiCRM
-excerpt: 'arxiv'
+excerpt: ''
 date: 2024-07-26
 venue: 'arxiv'
 slidesurl: 'https://arxiv.org/abs/2407.18338'
