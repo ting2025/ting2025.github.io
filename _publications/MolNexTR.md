@@ -2,12 +2,12 @@
 title: "MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition"
 collection: publications
 permalink: /publication/MolNexTR
-excerpt: 'Accepted'
-date: 2024-11-07
+excerpt: ''
+date: 2024-12-18
 venue: 'Journal of Cheminformatics'
-slidesurl: 'https://arxiv.org/abs/2403.03691'
-paperurl: 'https://arxiv.org/abs/2403.03691'
-citation: 'Chen, Y., Leung, C. T., Huang, Y., Sun, J., Chen, H., & Gao, H. (2024). MolNexTR: A Generalized Deep Learning Model for Molecular Image Recognition. arXiv preprint arXiv:2403.03691.'
+slidesurl: 'https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00926-w'
+paperurl: 'https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00926-w'
+citation: 'Chen, Y., Leung, C.T., Huang, Y. et al. MolNexTR: a generalized deep learning model for molecular image recognition. J Cheminform 16, 141 (2024). '
 ---
 
 Abstract:<br/>
