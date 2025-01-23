@@ -39,6 +39,7 @@ Awards
 - International Summer Research Sponsorship 2024
 - University Scholarship
 - Top 1% Students in Departments [Letter](../files/Academic Letter.pdf)
+- HKUST Research Travel Grant 24/25
   
 
 Publications
