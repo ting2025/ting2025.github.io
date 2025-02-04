@@ -31,6 +31,7 @@ Undergraduate Teaching Assistant for:
 - CENG2110 Process and Product Design Principles (2023 Fall)
 - CENG1800 Introduction to Food Science  (2024 Spring)
 - CENG3230 Chemical and Biological Reaction Engineering (2024 Fall)
+- CENG3110 Process Dynamics & Control (2025 Spring)
 
 Awards
 ======
