@@ -13,8 +13,6 @@ BEng in Chemical Engineering (Research Option) with extended major in Artificial
 
 Research Experience
 ======
-
-
 - Chem E-Car Team member @ Hong Kong University of Science and Technology [News](https://seng.hkust.edu.hk/news/20231211/hkust-chem-e-car-team-placed-11th-globally-and-won-best-video-award-2023-aiche-chem-e-car-competition) (2023 Summer)
 - Research Assistant @ Auiset Biotechnology (2023 Summer - ongoing)
 - Undergraduate Researcher in Professor Hanyu GAO's team @ Hong Kong University of Science and Technology
@@ -35,10 +33,10 @@ Undergraduate Teaching Assistant for:
 
 Awards
 ======
+- University Scholarship
 - 2023 Fall Dean's List Awardee
 - 2024 Spring Dean's List Awardee
 - International Summer Research Sponsorship 2024
-- University Scholarship
 - Top 1% Students in Departments [Letter](../files/Academic Letter.pdf)
 - HKUST Research Travel Grant 24/25
   
