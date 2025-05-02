@@ -29,7 +29,7 @@ Undergraduate Teaching Assistant for:
 - CENG3230 Chemical and Biological Reaction Engineering (2024 Fall)
 - CENG3110 Process Dynamics & Control (2025 Spring)
 
-## Awards
+## Awards, Fellowships and Sponsorships
 - University Scholarship
 - 2023 Fall Dean's List Awardee
 - 2024 Spring Dean's List Awardee
