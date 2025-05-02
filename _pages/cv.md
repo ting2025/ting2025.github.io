@@ -11,8 +11,7 @@ redirect_from:
 
 BEng in Chemical Engineering (Research Option) with extended major in Artificial Intelligence (2021 - 2025 (expected))
 
-Research Experience
-======
+## Research Experience
 - Chem E-Car Team member @ Hong Kong University of Science and Technology [News](https://seng.hkust.edu.hk/news/20231211/hkust-chem-e-car-team-placed-11th-globally-and-won-best-video-award-2023-aiche-chem-e-car-competition) (2023 Summer)
 - Research Assistant @ Auiset Biotechnology (2023 Summer - ongoing)
 - Undergraduate Researcher in Professor Hanyu GAO's team @ Hong Kong University of Science and Technology
@@ -20,8 +19,7 @@ Research Experience
 - McKelvey International Summer Research Internship in Professor Chenguang WANG's team @ Washigton University in St. Louis (2024 Summer)
 - Final Year Thesis student in Professor Hanyu GAO's team @ Hong Kong University of Science and Technology (2024 Fall - 2025 Spring)
 
-Teaching Experience
-======
+## Teaching Experience
 
 Undergraduate Teaching Assistant for: 
 
@@ -31,8 +29,7 @@ Undergraduate Teaching Assistant for:
 - CENG3230 Chemical and Biological Reaction Engineering (2024 Fall)
 - CENG3110 Process Dynamics & Control (2025 Spring)
 
-Awards
-======
+## Awards
 - University Scholarship
 - 2023 Fall Dean's List Awardee
 - 2024 Spring Dean's List Awardee
@@ -42,14 +39,14 @@ Awards
 - ND University Scholarship
   
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Presentations
-======
+## Presentations
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
