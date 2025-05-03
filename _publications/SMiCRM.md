@@ -5,7 +5,6 @@ permalink: /publication/SMiCRM
 excerpt: ''
 date: 2024-07-26
 venue: 'arxiv'
-slidesurl: 'https://arxiv.org/abs/2407.18338'
 paperurl: 'https://arxiv.org/abs/2407.18338'
 citation: 'Leung, C. T., Chen, Y., & Gao, H. (2024). SMiCRM: A Benchmark Dataset of Mechanistic Molecular Images. arXiv preprint arXiv:2407.18338.'
 ---
