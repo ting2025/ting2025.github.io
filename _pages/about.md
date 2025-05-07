@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-> Stand on the shoulder of giants, to explore teh boundary of science.
+> Stand on the shoulder of giants, to explore the boundary of science.
 
 About me
 ======
