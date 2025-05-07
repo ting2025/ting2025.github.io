@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+> Stand on the shoulder of giants, to explore teh boundary of science.
+
 About me
 ======
 I'm currently a senior student at Hong Kong University of Science and Technology, studying a Bachelor of Engineering majoring in Chemical Engineering with an extended major in Artificial Intelligence. I participated in projects for chemical information extraction, specifically in object recognition in chemical reaction mechanisms.
