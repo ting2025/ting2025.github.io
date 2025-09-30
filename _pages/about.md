@@ -15,7 +15,7 @@ I'm currently a senior student at Hong Kong University of Science and Technology
 
 I'm joining the University of Notre Dame as a PhD student in Chemical Engineering. I look forward for research opportunities in AI4Science or the integration of artificial intelligence and chemical engineering.
 
-You can find my a printable version of my CV here: [CV](../files/Resume.pdf)
+You can find my a printable version of my CV here: [CV](../files/CTL_CV.pdf)
 
 ## News
 ✨ **19 Aug 2025** I have started as a PhD student at University of Notre Dame! Go Irish! <br/>
