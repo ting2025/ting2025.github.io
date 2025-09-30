@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-PhD in Chemical Engineering (Expected graduation in 2030)
+PhD in Chemical Engineering (Expected graduation in 2030)<br/>
 BEng in Chemical Engineering (Research Option) with extended major in Artificial Intelligence (Awarded 2025)
 
 ## Research Experience
