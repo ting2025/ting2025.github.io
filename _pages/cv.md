@@ -23,6 +23,8 @@ BEng in Chemical Engineering (Research Option) with extended major in Artificial
   [Page](https://hanyugao.com/tina-leung/)  (2023 Fall - 2024 Summer)
 - McKelvey International Summer Research Internship in Professor Chenguang WANG's team @ Washigton University in St. Louis (2024 Summer)
 - Final Year Thesis student in Professor Hanyu GAO's team @ Hong Kong University of Science and Technology (2024 Fall - 2025 Spring)
+
+
 ## Teaching Experience
 
 Undergraduate Teaching Assistant for: 
