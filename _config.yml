@@ -38,6 +38,7 @@ author:
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Ching-Ting-Leung"
+  openreview       : "https://openreview.net/profile?id=%7EChing_Ting_Leung1"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
