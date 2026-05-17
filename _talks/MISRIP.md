@@ -2,7 +2,7 @@
 title: "Atmospheric Composition Analysis: Evaluating and Utilising Large Language Model's Ability in Recognising Physical Phenomena"
 collection: talks
 type: "Poster Session"
-permalink: /talks/MISRIP
+permalink: /talks/MISRIP.md
 excerpt: "Washington University in St. Louis"
 date: 2024-08-01
 location: "St. Louis MO, USA"

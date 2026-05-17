@@ -2,11 +2,10 @@
 title: "Chemeagle: An Mllm-Powered Multi-Agent System for Multimodal Chemical Information Extraction"
 collection: talks
 type: "Oral Session"
-permalink: /talks/AICHE_2024
+permalink: /talks/AICHE_2025.md
 excerpt: "AICHE Annual Conference 2025"
 date: 2025-11-06
 location: "Boston, MA, US"
 ---
-Abstract accepted for oral presentation for AICHE Annual Conference 2024<br/>
-[Poster](../files/poster_101024.pdf) <br/>
+Abstract accepted for oral presentation for AICHE Annual Conference 2025<br/>
 [Link](https://aiche.confex.com/aiche/2025/meetingapp.cgi/Paper/713165)
