@@ -30,13 +30,12 @@ Undergraduate Teaching Assistant for:
 - CENG3110 Process Dynamics & Control (2025 Spring)
 
 ## Awards, Fellowships and Sponsorships
-- University Scholarship
+- HKUST University Scholarship
 - 2023 Fall Dean's List Awardee
 - 2024 Spring Dean's List Awardee
 - International Summer Research Sponsorship 2024
 - Top 1% Students in Departments [Letter](../files/Academic Letter.pdf)
 - HKUST Research Travel Grant 24/25
-- ND University Scholarship
   
 
 ## Publications
