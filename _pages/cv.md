@@ -12,13 +12,17 @@ PhD in Chemical Engineering (Expected graduation in 2030)<br/>
 BEng in Chemical Engineering (Research Option) with extended major in Artificial Intelligence (Awarded 2025)
 
 ## Research Experience
+### Doctoral level
+- Graduate student researcher for the Environmentally Applied Refrigerant Technology Hub (EARTH)
+- Doctoral student supervised by Professor Yamil Colon
+
+### Undergraduate level
 - Chem E-Car Team member @ Hong Kong University of Science and Technology [News](https://seng.hkust.edu.hk/news/20231211/hkust-chem-e-car-team-placed-11th-globally-and-won-best-video-award-2023-aiche-chem-e-car-competition) (2023 Summer)
 - Research Assistant @ Auiset Biotechnology (2023 Summer - ongoing)
 - Undergraduate Researcher in Professor Hanyu GAO's team @ Hong Kong University of Science and Technology
   [Page](https://hanyugao.com/tina-leung/)  (2023 Fall - 2024 Summer)
 - McKelvey International Summer Research Internship in Professor Chenguang WANG's team @ Washigton University in St. Louis (2024 Summer)
 - Final Year Thesis student in Professor Hanyu GAO's team @ Hong Kong University of Science and Technology (2024 Fall - 2025 Spring)
-
 ## Teaching Experience
 
 Undergraduate Teaching Assistant for: 
@@ -28,6 +32,10 @@ Undergraduate Teaching Assistant for:
 - CENG1800 Introduction to Food Science  (2024 Spring)
 - CENG3230 Chemical and Biological Reaction Engineering (2024 Fall)
 - CENG3110 Process Dynamics & Control (2025 Spring)
+
+Graduate Teaching Assistant for 
+- Chemical Engineering Laboratory II (2025 Fall)
+- Numerical Methods and Statistics (2026 Spring)
 
 ## Awards, Fellowships and Sponsorships
 - HKUST University Scholarship
