@@ -11,6 +11,6 @@ redirect_from:
 
 About me
 ======
-I'm currently a first year PhD student in Chemical Engineering in University of Notre Dame. I am particularly interested in facilitating automation in chemical information extraction. I look forward to any opportunities in AI4Science or computational experiments in chemical engineering.
+I am a PhD student in Chemical Engineering in University of Notre Dame. I am particularly interested in facilitating automation in chemical information extraction. I look forward to any opportunities in AI4Science or computational experiments in chemical engineering.
 You can find my a printable version of my CV here: [CV](../files/Resume_twopage.pdf)
 
